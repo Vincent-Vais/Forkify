@@ -29,6 +29,10 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "babel-polyfill": "^6.26.0"
+    "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "fractional": "^1.0.0",
+    "mathjs": "^7.1.0",
+    "uniqid": "^5.2.0"
   }
 }
